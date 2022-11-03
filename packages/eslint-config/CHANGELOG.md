@@ -1,5 +1,11 @@
 # Change Log
 
+## 5.8.0
+
+### Minor Changes
+
+- [#178](https://github.com/1stG/configs/pull/178) [`16bf6b4`](https://github.com/1stG/configs/commit/16bf6b4567843a27c52467c9fb18c08f15ac7638) Thanks [@JounQin](https://github.com/JounQin)! - chore: bump all (dev)Dependencies
+
 ## 5.7.0
 
 ### Minor Changes
